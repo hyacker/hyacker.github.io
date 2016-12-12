@@ -12,6 +12,8 @@ baseurl: ''
 share:
   facebook: true
   twitter: true
+  wechat: true
+  weibo: true
   gplus: true
   linkedin: true
   pinterest: true
@@ -19,16 +21,17 @@ share:
 
 social:
   github: hyacker
-  stackoverflow: ''
+  weibo: 1831450130
+  stackoverflow: 
   linkedin:
-  instagram: ''
-  lastfm: ''
+  instagram: 
+  lastfm: 
   rss: feed.xml
 
 # Google Analytics key, leave blank to ignore
 google_analytics_key:
 # Yandex metrika (https://metrica.yandex.com/) leave blank to ignore or put true to use
-yandex_metrica:
+yandex_metrica: true
 
 
 # Set this to your disqus shortname to enable comments. Note that the 'comments'

@@ -13,6 +13,17 @@
     </li>
     {% endif %}
 
+    {% if site.share.weibo %}
+    <li class="share-weibo">
+      <a href="http://v.t.sina.com.cn/share/share.php?url={{ site.url | append: page.url }}&title={{page.title}}" target="_blank" title="weibo">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-square-o fa-stack-2x"></i>
+          <i class="fa fa-weibo fa-stack-1x"></i>
+        </span>
+      </a>
+    </li>
+    {% endif %}
+
     {% if site.share.twitter %}
     <li class="share-twitter">
       <a href="https://twitter.com/intent/tweet?url={{ site.url | append: page.url }}&text={{page.title}}" target="_blank" title="Tweet">

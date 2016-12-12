@@ -1,0 +1,10 @@
+projects:
+
+  - name: spiderlg
+    description: a simple python spider without third framework.
+    technologies: python
+    links:
+      github: https://github.com/hyacker/spiderlg
+      site: https://github.com/hyacker/spiderlg
+
+
