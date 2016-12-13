@@ -12,6 +12,6 @@ title: About
 
 ##...我
 
-出道于Linux C Software Developer,后历经java，正逐渐向full stall developer过渡。
+出道于Linux C Software Developer,后历经java，正逐渐向full stack developer过渡。
 
 
