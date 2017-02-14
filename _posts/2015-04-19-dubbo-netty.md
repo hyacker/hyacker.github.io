@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "use redis with mysql"
+title: "dubbo 应用过程中堆外内存OOM事件"
 date: 2015-04-19 21:16:23
 comments: true
 share: true
