@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>hyacker</title>
+		<description>Software Developer</description>
+		<link>http://localhost:4000</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>在github上用jekyll写blog</title>
+				<description>
+</description>
+				<pubDate>Sat, 22 Oct 2016 07:27:10 +0800</pubDate>
+				<link>http://localhost:4000/2016/10/github-jekyll</link>
+				<guid isPermaLink="true">http://localhost:4000/2016/10/github-jekyll</guid>
+			</item>
+		
+			<item>
+				<title>团队的招聘与建设感悟</title>
+				<description>
+</description>
+				<pubDate>Sun, 24 Apr 2016 06:19:10 +0800</pubDate>
+				<link>http://localhost:4000/2016/04/teamwork-construction</link>
+				<guid isPermaLink="true">http://localhost:4000/2016/04/teamwork-construction</guid>
+			</item>
+		
+			<item>
+				<title>linux 登陆密码过期引起的Gitlab 错误</title>
+				<description>
+</description>
+				<pubDate>Fri, 18 Mar 2016 04:56:32 +0800</pubDate>
+				<link>http://localhost:4000/2016/03/linux-managment-gitlab</link>
+				<guid isPermaLink="true">http://localhost:4000/2016/03/linux-managment-gitlab</guid>
+			</item>
+		
+			<item>
+				<title>DNS缓存线上问题事件</title>
+				<description>
+</description>
+				<pubDate>Sun, 20 Dec 2015 04:17:19 +0800</pubDate>
+				<link>http://localhost:4000/2015/12/linux-server-DNS</link>
+				<guid isPermaLink="true">http://localhost:4000/2015/12/linux-server-DNS</guid>
+			</item>
+		
+			<item>
+				<title>iOS/Android 与后台通讯加解密</title>
+				<description>
+</description>
+				<pubDate>Sat, 31 Oct 2015 05:30:10 +0800</pubDate>
+				<link>http://localhost:4000/2015/10/iOS-Android-RSA-AES</link>
+				<guid isPermaLink="true">http://localhost:4000/2015/10/iOS-Android-RSA-AES</guid>
+			</item>
+		
+			<item>
+				<title>缓存更新</title>
+				<description>
+</description>
+				<pubDate>Fri, 19 Jun 2015 05:39:10 +0800</pubDate>
+				<link>http://localhost:4000/2015/06/redis-mysql-update-cache</link>
+				<guid isPermaLink="true">http://localhost:4000/2015/06/redis-mysql-update-cache</guid>
+			</item>
+		
+			<item>
+				<title>dubbo 应用过程中堆外内存OOM事件</title>
+				<description>
+</description>
+				<pubDate>Mon, 20 Apr 2015 05:16:23 +0800</pubDate>
+				<link>http://localhost:4000/2015/04/dubbo-netty</link>
+				<guid isPermaLink="true">http://localhost:4000/2015/04/dubbo-netty</guid>
+			</item>
+		
+			<item>
+				<title>我所遇到的JPA</title>
+				<description>
+</description>
+				<pubDate>Fri, 27 Feb 2015 05:34:18 +0800</pubDate>
+				<link>http://localhost:4000/2015/02/java-with-JPA</link>
+				<guid isPermaLink="true">http://localhost:4000/2015/02/java-with-JPA</guid>
+			</item>
+		
+			<item>
+				<title>SOA 框架应用及选型</title>
+				<description>
+</description>
+				<pubDate>Fri, 31 Oct 2014 06:12:16 +0800</pubDate>
+				<link>http://localhost:4000/2014/10/SOA-dubbo</link>
+				<guid isPermaLink="true">http://localhost:4000/2014/10/SOA-dubbo</guid>
+			</item>
+		
+			<item>
+				<title>jstorm 应用</title>
+				<description>
+</description>
+				<pubDate>Mon, 27 Oct 2014 05:32:16 +0800</pubDate>
+				<link>http://localhost:4000/2014/10/jstorm</link>
+				<guid isPermaLink="true">http://localhost:4000/2014/10/jstorm</guid>
+			</item>
+		
+	</channel>
+</rss>
