@@ -7,4 +7,9 @@ projects:
       github: https://github.com/hyacker/spiderlg
       site: https://github.com/hyacker/spiderlg
 
-
+  - name: xqseccenter
+    description: a simple security center framework
+    technologies: python flask mongodb
+    links:
+      github: https://github.com/hyacker/xqseccenter
+      site: https://github.com/hyacker/xqseccenter
